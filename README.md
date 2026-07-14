@@ -16,4 +16,4 @@
      <img width="60" height="60" alt="md_5b32227feb591-removebg-preview" src="https://github.com/user-attachments/assets/cfded753-c935-4021-a8b7-c59a7fdecb84" />
    </a>
    
- [![Mateus stats](https://github-readme-stats.vercel.app/api?username=Mateusguanabara)](https://github.com/anuraghazra/github-readme-stats)
+
